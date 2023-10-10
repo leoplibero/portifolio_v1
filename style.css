@@ -12,9 +12,6 @@ header {
     padding: 20px;
 }
 
-nav {
-    align-content: center;
-}
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -24,7 +21,7 @@ nav ul {
 
 nav li {
     display: inline-flex;
-    margin-left: 23%;
+    margin-left: 50px;
 }
 
 nav a {
@@ -40,4 +37,13 @@ section {
     background-color: #fff;
     padding: 10px;
     margin-bottom: 10px;
+}
+
+img{
+  width: 100%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
 }
